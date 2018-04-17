@@ -9,7 +9,11 @@ app.get("/", function(req, res){
     res.render("home");
 });
 
-app.get('/project/:name', function(req, res){
+app.get("/projects", function(req, res){
+    res.send("projects index");
+});
+
+app.get('/projects/:name', function(req, res){
     if(texts[req.params.name]) res.render(req.params.name, {texts: JSON.stringify(texts[req.params.name])});
     else res.send("pas trouvé");
 });
