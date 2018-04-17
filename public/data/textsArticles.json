@@ -1,0 +1,283 @@
+{
+    "bokida":{
+        "EN":{
+            "LONG":[
+                "BOKIDA - HEARTFELT REUNION | PC GAME (2013-2017)",
+                "Context",
+                "Bokida – Hertfelt Reunion is an adventure game with puzzle elements set in a minimalist open world. ",
+                "At the beginning <strong>Bokida</strong> was a student project, seeing the potential of the concept we decided to keep working on it and release it as a full length game.",
+                "I worked on it for its whole duration, 4 years and 6 months, from the concept to the release. Because of the way we worked and communicated, I have been able to experience every aspect of the development, the production side as well as the administration and community management side.",
+                "We had weekly meetings with the whole team to keep everyone informed on the tasks of each and collect feedbacks, opinions and to make collegial decisions. We also had daily meetings with people with whom we worked on the same feature.",
+                "My Tasks",
+                "I assumed several roles along the production cycle :",
+                "Playtests",
+                "When we entered the beta stage, I managed the playstests. We recruited most of our candidates through social media. Our goal was to get has many constructive feedbacks as possible.",
+                "To do so I chose to use a discord server to gather and discuss with the playtesters. This way I was able to discuss directly with them and get more details on their experience. Having a common and instantaneous plateform allowed them to discuss, share and compare their experience, thus creating retention and will to participate. I then collected and summarized their feedbacks to advise the rest of the team on how to improve the game.",
+                "Level Design",
+                "I was also in charge of the level design of several interactive zones. I worked closely with the lead designer, we had an iterative process that allowed us to test our ideas quickly. This meant that I had to built my levels carefully to be able to work on one part without having to change the ones approved.",
+                "I also helped the programmers with the integration part, following their guidelines, nomenclature and testing my builds on my side.",
+                "Test QA",
+                "Through out the second half of the project I did QA test. I set up the bug tracker and managed it, checking and validating corrected bugs, reporting the ones I found and rewriting or detailing the ones other members found when needed.",
+                "We sorted the bugs by priority and type so everyone knew which bug concerned them and which one they should correct first.",
+                "What I learned",
+                "I had to do tasks for which I had no experience or little training and had to learn on the job (such as coordinating playtest, 3D animation and 3D modeling). I dreaded doing those as I wasn’t sure I would be able to deliver satisfying and usable results. My approach was to set achievable goals and aim futher each iteration (doing pertinent research and tutorial to improve), this way I was able to develop new skills and reach satisfying results. I am now much less apprehensive about getting into tasks that seem beyond my current skill.",
+                "I’ve seen a whole digital project development cycle, and quite a long one. A big challenge was to stay motivated through the whole duration of the project. I had to learn how to discipline myself and stay focused instead of being motivated. I never worked on a project longer than a few months before Bokida and never met the limit of my motivation to work on a project. This might be the most usefull skill a learned.",
+                "What I Would Do Differently",
+                "I would do a more rigorous tasks tracking through production documents or tools like SCRUM with trello. We have lost a lot of time repeating or forgetting tasks said oraly during a meeting. We should have set up a tool to keep track of everyone’s tasks. I should have done it more rigourisly on my side too.",
+                "Better time management on my side. Working at home it is hard to discern free time and work time. When you do not work you can feel guilty for not working. I tried to put some fixed working period during the day but working with people in different time zone, it was not always possible to respect those periods. I should have taken a more flexible approach, setting a work duration per day and tracking it to better manage my work time and my free time.",
+                "Credits",
+                "ARNAUD VANNIER",
+                "ROMAIN PECHOT",
+                "GAUTIER JACQUET",
+                "AURELIEN HULOT",
+                "VINCENT LEVY",
+                "DAMIEN FANGOUS",
+                "XAVIER DANG",
+                "DELPHINE FOURNEAU",
+                "Links",
+                "(EN) Offical website :",
+                "http://bokida.com/",
+                "(EN) RPS Reviews :",
+                "https://www.rockpapershotgun.com/2017/05/17/bokida-heartfeld-reunion-review/",
+                "(EN) Metacritic Page :",
+                "http://www.metacritic.com/game/pc/bokida-heartfelt-reunion",
+                "Steam Page :",
+                "http://store.steampowered.com/app/612740/Bokida__Heartfelt_Reunion/",
+                "0000000000000000000"
+            ],
+            
+            "TLDR":[
+                ""
+            ]
+        },
+
+        "FR":{
+            "LONG":[
+                "Texte0",
+                "Texte1"
+            ],
+            "TLDR":[
+                ""
+            ]
+        }
+    },
+
+    "raisin":{
+        "EN":{
+            "LONG":[
+                "LE RAISIN | WEBSITE (2016)",
+                "Context",
+                "Le Raisin is a restaurant’s web site. The goal was to present the (to) restaurant to customers and create a tool for the owner to update his weekly menus.",
+                "I took this job as a challenge for myself. I started learning web programming and wanted to work on a project with real constraints, not just (a) something I do for myself but a product for a client, answering his needs with all the problematics that come with.",
+                "It was a segemented 3 months project. I started working on the design and had to wait for the owner’s approval, having difficulties with the restaurant’s oppening we had to postpone the website’s development for a few months The programming part took a few weeks, it was a side project during the development of Bokida.",
+                "My Tasks",
+                "UX Design",
+                "The graphical charter having been done by my sister previously I already had the branding and the logo. I have been able to concentrate on the UX. I used Adobe Illustrator to create my wireframes and mockups.",
+                "Visitor Side",
+                "My goal was to create a one page web site with everything available easily and a clean look. My biggest constraint was my technical skills that I tried to turn to my advantage. I used a simple layout with tabs organized by section. The most important part was the « Menu » section where the user could find the lunch formula, the dishes, suggestions and the wines. Each of thoses sub section has a different layout.",
+                "Admin Side",
+                "Concerning the admin side I mostly needed to do something functional and easy to use as it would only be used by the owner and the cook. They needed to be able to update the lunch formula, the dishes and the suggestions.",
+                "Programming",
+                "I used Bootstrap as a base for the CSS and did everything else from scratch (cf. What I would do differently).",
+                "I wrote everything with HTML and JS except for my API that I wrote in PHP which was at the time the only server side language I knew. I chose JS instead of PHP for the dynamic content for its comfort in use for the user.",
+                "What I learned",
+                "It was a good training and a formative way to apply the theory I learned prior to this project. Before it, I just did some exercises and had never developed a full website. As a beginner I fell in most beginners traps such as web browers compatibility, special characters in SQL requests, character encoding and more. Those are some types of mistakes that I am now able to anticipate and identify.",
+                "My favorite part of the website is the admin side as it is where there are the most interactions. I tried to make it as usable as my programming skills allowed. Adding feedbacks when updating content, automatically fillind text fields from the database, instantly adding or deleting text fields. I also created a delayed update that allowed the client to update his menu at a later date. Sadly I was not able to implement it as the client’s server did not allow « on schedule » requests.",
+                "A challenging part of the project was the communication with the client. It was not always easy to get a clear answer and find exactly what he wanted (not being sure himself). To ease the communication I tried to explain my design choices with anotated mock ups and made several suggestions for each iteration.",
+                "What I would do differently",
+                "I would use a framework to simplify server requests and compatibility issues such as Angular (my favorite one) or Laravel. I really enjoy coding with JS and in the future I would like to learn more tools using this language.",
+                "On the design side I would now go for a bolder design while keeping the clean and simple look. I would use bigger titles, more spacing between sections, get rid of the carousel. I would also take  the pictures to get a better quality and, knowing where they would go, be more pertinent.",
+                "For my next web project I will try to use prototyping software better suited for web design than Illustrator such as Axure RP, Pencil or InVision. Illustrator is good to test different layouts rapidly but offers no features to test navigation and interactivity.",
+                "External Links",
+                "(FR) Website (backup) : ",
+                "http://damifa.fr/raisin/",
+                "(FR) Admin side : ",
+                "http://damifa.fr/raisin/admin/admin.html",
+                "Bitbucket repository : ",
+                "https://bitbucket.org/DamiFa/raisin_cafe/"
+            ],
+            "TLDR":[
+                ""
+            ]
+        },
+
+        "FR":{
+            "LONG":[
+                "Texte0",
+                "Texte1"
+            ],
+            "TLDR":[
+                ""
+            ]
+        }
+    },
+
+    "sifa":{
+        "EN":{
+            "LONG":[
+                "SIFA | MOBILE GAME (2015)",
+                "Context",
+                "SIFA (project name : Curing Ass) is plateform game, where the player have to cure a patient from the inside using his bacteria power.",
+                "I started the project with Killian Lhomme in 2012 but we did not had the time to work on it untill 2015. We formed a small team with a programmer and an other artist. We worked on it for 9 months but had to abandon the project (once again) because we did not had time for a side project with our respective main project taking too much time, in my case Bokida.",
+                "I hope to be able to reboot the project to finally finish it someday !",
+                "My tasks",
+                "I had several tasks simultaneously during the project :",
+                "Project Manager/Lead",
+                "The task that took the much time was leading and managing everyones tasks. To help me I used Asana and Trello for communication and to track tasks.",
+                "We had weekly meetings to keep everyone in the loop. As the guarantor of the game’s experience, I was always available to every member to answer questions or help them.",
+                "Game Designer",
+                "As a game designer I was in charge of formalizing and working on the core elements of the game, the player progression and the player experience in general. ",
+                "I tried my best to keep my documents consistent from one to another, keeping the same structure, using sketchs or diagram and as concise as possible.",
+                "Level Designer",
+                "For a mobile game I wanted my levels to be short and fast paced. I used mostly 2 tools to help me design them, a RLD (Rational Level Design) and a Macro Design.",
+                "I then created my level parts following my RLD, and assembled them to create my levels following my MD to offer a smooth experience in difficulty and how new elements were introduced.",
+                "What I learned",
+                "We used git as our versioning engine. This was my first time using it. I also thaught the team how to use it (several times) which helped me understand better how it works. We also used GitHub as our remote repository to make it easier for everyone to download and try the project.",
+                "This was a realy good training as a level designer. I very much enjoyed the process of creating my levels in parts, makes variants and building level from those parts. I was also looking for an opportunity to practice the RLD as it was a factual design process that echo with my way of thinking.",
+                "What I would do differently",
+                "My main issue was to keep everyone invested in the project. This last being interesting and fun was not enough as we all had financial and time constraints. If I had to do it again I would look for money and plan it as a business beforehand. ",
+                "I looked at business incubators or subvention but none were viable option as we were scattered between Canada and France and did not had enough money to apply for subventions.",
+                "Credits",
+                "DAMIEN FANGOUS",
+                "KILLIAN LHOMME",
+                "ANDRE MONTEIRO",
+                "JAMES FAUVELLE",
+                "External Links",
+                "(FR) Design Documents : ",
+                "https://drive.google.com/open?id=1wbjcU8sFF4gZc8CRevN3ujBCPY6RbNEw",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000"
+            ],
+            "TLDR":[
+                ""
+            ]
+        },
+
+        "FR":{
+            "LONG":[
+                "Texte0",
+                "Texte1"
+            ],
+            "TLDR":[
+                ""
+            ]
+        }
+    },
+
+    "tanuki":{
+        "EN":{
+            "LONG":[
+                "TANUKI NO TAMA | PC GAME (2014)",
+                "Context",
+                "Tanuki No Tama is a multiplayer party game in which players dashes across the screen to defend the Tanuki against waves of demons.",
+                "It is a student projet on which I worked during my DESS at Montreal University (UdeM). We were a team of 4 and I worked on the project for 6 months as a gameplay programer and game designer. I had never been the core programmer on a project prior to Tanuki No Tama and it was an interesting challenge for me.",
+                "Our minimal goal was to have a playable prototype and from there try and push it as close as possible to a marketable game. We ended the 6 months with a polishable game but enjoyable nonetheless. We were able to get all the core feature we wanted but still had room to enrich them (add more power ups for example). We were also happy with the look and feel thanks to our technical designer who was able to juice up the game and make it flashier and more satisfying.",
+                "My tasks",
+                "Gameplay Programmer",
+                "I had a central role in the team as the gameplay programmer, I was in charge of creating the core features and the tools that allowed the rest of the team to try and tweak those.",
+                "I worked on Unity and used C# for my scripts. I also used the library iTween to draw and easily managed enemies paths.",
+                "We had an iteration based approach which meant that I had made my code as clean and modular as possible to be able to modify it easily. For example, our main feature went from a simple walk and dash to a walk, lock and dash to a simple lock and dash. We did several tries for each steps but having this appoach in mind, we were able to iterate quickly and not be too slowed by the programming side.",
+                "What I learned",
+                "To help us manage our tasks and time we used a SCRUM approach. Every day we met to keep every one up to date of each other’s tasks and problems. We kept tracks of ongoing and upcoming tasks with Trello (with the extension « SCRUM for Trello »). I took a liking in this method as it is easy to set up and less stressful than a more linear method.",
+                "This project helped shape my current design approach. Prior to Tanuki No Tama I spent a lot of time planning and thinking about a feature instead of prototyping it and have a concrete base to work on. I was afraid to lose time developing it and wanted to anticipate and plan every detail beforehand. But I ended up still having to spend time tweaking and modifying my feature after developing it. Now I still spend time planing but I try to start prototyping as soon as I have enough material to work with and iterate from there.",
+                "What I would do differently",
+                "We lacked  design documents to better communicate our ideas, most of the time we only discussed our ideas or implemented them directly into to the prototype. This approach was not too problematic with this project but if we were a bigger team it would have been hard to keep everyone aware of modifications on the game.",
+                "I would also keep some time to do a better job at debugging and use one or two other team member to help me track bugs. The bugs that were left were not critical but if I had more time to fix them, the experience would have been smoother.",
+                "Credits",
+                "DAMIEN FANGOUS",
+                "EMILIE G.BERGERON",
+                "MOURA MELONDEAU",
+                "RAPHAEL TOULOUSE",
+                "Links",
+                "Gameplay Video : ",
+                "https://www.youtube.com/watch?v=TUZe9LYxZCI",
+                "(FR) Emilie’s words on the project : ",
+                "http://www.emiliegbergeron.com/portfolio/tanuki-no-tama/",
+                "(FR) From the faculty : ",
+                "http://design2014.umontreal.ca/design_de_jeux/projet/Tanuki%20No%20Tama",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000"
+            ],
+            "TLDR":[
+                ""
+            ]
+        },
+
+        "FR":{
+            "LONG":[
+                "Texte0",
+                "Texte1"
+            ],
+            "TLDR":[
+                ""
+            ]
+        }
+    },
+
+    "misc":{
+        "EN":{
+            "LONG":[
+                "VARIOUS PROJECTS (2013-2017)",
+                "Mobile Prototypes",
+                "I was drawn to mobile games because the support and their use orients the design toward a simple manipulation, an efficient and refined UI and a depth of game mechanics based on the elegance of the game design.",
+                "Here are 2 examples of idea I prototyped and the one page document I did for each :",
+                "CA",
+                "The proof of concept for SIFA. I had done little programming when did this prototype and had to learn how to handle player’s inputs on the touch screen and how to stream from Unity to my smartphone.",
+                "Tiny Rider",
+                "In this game you control indirectly a ball by modifying the ground shape, it is a mix between Tiny Wings and Line Rider. I was mostly limited by my technical skills and Unity’s physics.",
+                "Game Jams",
+                "I participated in several game jams in several contries, France, Switzerland, Germany and Canada. I enjoy game james for several reasons :",
+                "Meet new people",
+                "It is always an enriching experience to work with new people, especially when you get to know them by working for 48 hours next to them. We have to quickly understand how to work, everyone’s weakness and how to help each other to reach our goals.",
+                "The strong constaints",
+                "The strongest constraint is probably the limited 48h ; this forces us to manage time very efficiently, to no hesitate to scrap ideas and adopt an iteration based approach, starting from the bare minimum of our concept and enriching it little by little.",
+                "Another interesting constraints to take in account is the skills of each members of the team, what they are used to work with. For example is the programmer more comfortable with Unity, game maker or a library HTML5/JS ? The artists art style, pixel art, 3D or flash ? Being aware of those help to orients the decisions and gives us a base to start with",
+                "Projects Scope",
+                "As a designer I like being aware of every aspects of a project. Because of the time constraint, we have to keep the scope of the project small which makes the design very manageable. It also allows me to help members of the team when the design side is done.",
+                "Here are a few game jams projects I worked on :",
+                "Replay (2012) at Lilles, FR",
+                "https://vimeo.com/53589330",
+                "Benighted (2013) at Cologne, DE",
+                "http://2013.globalgamejam.org/2013/benighted",
+                "Benighted (2014) at Montreal, CA",
+                "https://globalgamejam.org/2014/games/temple-hue",
+                "Les Aventures du Briand (2016 & 2017) at Geneva, CH",
+                "https://breathinggames.net/?q=fr/health-game-jam-lift-16",
+                "https://breathinggames.net/?q=fr/health-game-jam-lift-17",
+                "Design Documents",
+                "War redesign",
+                "During the time I played World of Warcraft I got frustrated with the changes Blizzard made with the warrior (my main character) and to ventilate my rage I decided to redesign it as I saw fit. ",
+                "I made a design document to present and explain the changes I suggested and I also made a prototype in google sheet to test the numbers of my redesign.",
+                "Soldiers",
+                "During my internship at Majesty House in England I developed a game concept from an lead game designer’s idea into a complete submission document for Sony Europe. I first did a paper prototype to test the concept, I then did several documents detailing how aspects of the game works and finally regroup every pertinent documents into a master document following Sony’s guidelines for a submission document.",
+                "WARNING : This was the first time I wrote a document in english and it does not reflect my current english level !",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000",
+                "0000000000000000000"
+            ],
+            "TLDR":[
+                ""
+            ]
+        },
+
+        "FR":{
+            "LONG":[
+                "Texte0",
+                "Texte1"
+            ],
+            "TLDR":[
+                ""
+            ]
+        }
+    }
+}
