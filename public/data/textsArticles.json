@@ -1,4 +1,15 @@
 {
+    "home":{
+        "EN":{
+            "LONG":[],
+            "TLDR":[]
+        },
+        "FR":{
+            "LONG":[],
+            "TLDR":[]
+        }
+    },
+
     "bokida":{
         "EN":{
             "LONG":[
@@ -26,23 +37,11 @@
                 "I would do a more rigorous tasks tracking through production documents or tools like SCRUM with trello. We have lost a lot of time repeating or forgetting tasks said oraly during a meeting. We should have set up a tool to keep track of everyone’s tasks. I should have done it more rigourisly on my side too.",
                 "Better time management on my side. Working at home it is hard to discern free time and work time. When you do not work you can feel guilty for not working. I tried to put some fixed working period during the day but working with people in different time zone, it was not always possible to respect those periods. I should have taken a more flexible approach, setting a work duration per day and tracking it to better manage my work time and my free time.",
                 "Credits",
-                "ARNAUD VANNIER",
-                "ROMAIN PECHOT",
-                "GAUTIER JACQUET",
-                "AURELIEN HULOT",
-                "VINCENT LEVY",
-                "DAMIEN FANGOUS",
-                "XAVIER DANG",
-                "DELPHINE FOURNEAU",
                 "Links",
-                "(EN) Offical website :",
-                "http://bokida.com/",
-                "(EN) RPS Reviews :",
-                "https://www.rockpapershotgun.com/2017/05/17/bokida-heartfeld-reunion-review/",
-                "(EN) Metacritic Page :",
-                "http://www.metacritic.com/game/pc/bokida-heartfelt-reunion",
-                "Steam Page :",
-                "http://store.steampowered.com/app/612740/Bokida__Heartfelt_Reunion/",
+                "(EN) Offical website:",
+                "(EN) RPS Reviews:",
+                "(EN) Metacritic Page:",
+                "Steam Page:",
                 "0000000000000000000"
             ],
             
@@ -179,29 +178,22 @@
                 "Tanuki No Tama is a multiplayer party game in which players dashes across the screen to defend the Tanuki against waves of demons.",
                 "It is a student projet on which I worked during my DESS at Montreal University (UdeM). We were a team of 4 and I worked on the project for 6 months as a gameplay programer and game designer. I had never been the core programmer on a project prior to Tanuki No Tama and it was an interesting challenge for me.",
                 "Our minimal goal was to have a playable prototype and from there try and push it as close as possible to a marketable game. We ended the 6 months with a polishable game but enjoyable nonetheless. We were able to get all the core feature we wanted but still had room to enrich them (add more power ups for example). We were also happy with the look and feel thanks to our technical designer who was able to juice up the game and make it flashier and more satisfying.",
-                "My tasks",
+                "My Tasks",
                 "Gameplay Programmer",
                 "I had a central role in the team as the gameplay programmer, I was in charge of creating the core features and the tools that allowed the rest of the team to try and tweak those.",
                 "I worked on Unity and used C# for my scripts. I also used the library iTween to draw and easily managed enemies paths.",
                 "We had an iteration based approach which meant that I had made my code as clean and modular as possible to be able to modify it easily. For example, our main feature went from a simple walk and dash to a walk, lock and dash to a simple lock and dash. We did several tries for each steps but having this appoach in mind, we were able to iterate quickly and not be too slowed by the programming side.",
-                "What I learned",
+                "What I Learned",
                 "To help us manage our tasks and time we used a SCRUM approach. Every day we met to keep every one up to date of each other’s tasks and problems. We kept tracks of ongoing and upcoming tasks with Trello (with the extension « SCRUM for Trello »). I took a liking in this method as it is easy to set up and less stressful than a more linear method.",
                 "This project helped shape my current design approach. Prior to Tanuki No Tama I spent a lot of time planning and thinking about a feature instead of prototyping it and have a concrete base to work on. I was afraid to lose time developing it and wanted to anticipate and plan every detail beforehand. But I ended up still having to spend time tweaking and modifying my feature after developing it. Now I still spend time planing but I try to start prototyping as soon as I have enough material to work with and iterate from there.",
                 "What I would do differently",
                 "We lacked  design documents to better communicate our ideas, most of the time we only discussed our ideas or implemented them directly into to the prototype. This approach was not too problematic with this project but if we were a bigger team it would have been hard to keep everyone aware of modifications on the game.",
                 "I would also keep some time to do a better job at debugging and use one or two other team member to help me track bugs. The bugs that were left were not critical but if I had more time to fix them, the experience would have been smoother.",
                 "Credits",
-                "DAMIEN FANGOUS",
-                "EMILIE G.BERGERON",
-                "MOURA MELONDEAU",
-                "RAPHAEL TOULOUSE",
                 "Links",
-                "Gameplay Video : ",
-                "https://www.youtube.com/watch?v=TUZe9LYxZCI",
-                "(FR) Emilie’s words on the project : ",
-                "http://www.emiliegbergeron.com/portfolio/tanuki-no-tama/",
-                "(FR) From the faculty : ",
-                "http://design2014.umontreal.ca/design_de_jeux/projet/Tanuki%20No%20Tama",
+                "Gameplay Video:",
+                "(FR) Emilie’s words on the project:",
+                "(FR) From the faculty:",
                 "0000000000000000000",
                 "0000000000000000000",
                 "0000000000000000000"
@@ -278,6 +270,17 @@
             "TLDR":[
                 ""
             ]
+        }
+    },
+
+    "cv":{
+        "EN":{
+            "LONG":[],
+            "TLDR":[]
+        },
+        "FR":{
+            "LONG":[],
+            "TLDR":[]
         }
     }
 }
