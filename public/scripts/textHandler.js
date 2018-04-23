@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded',function() {
     length = !isLong ? "LONG" : "TLDR";
     lengthInput.onchange = changeLength;
     languageInput.onchange = changeLanguage;
-    fillTags();
+    // fillTags();
 },false);
 
 function fillTags(){

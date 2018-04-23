@@ -38,6 +38,15 @@ p{
     text-align: center;
 }
 
+li{
+    text-align: center;
+    list-style-type: none;
+}
+
+ul{
+    padding-left: 0;
+}
+
 /* h1, h2, h3, p {
     transition: content 0.5s ease-out;
 } */
