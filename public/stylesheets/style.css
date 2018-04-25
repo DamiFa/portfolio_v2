@@ -48,7 +48,7 @@ ul{
 }
 
 /* h1, h2, h3, p {
-    transition: content 0.5s ease-out;
+    transition: all 0.5s ease-out;
 } */
 
 #header a h1{
@@ -108,8 +108,12 @@ a{
 }
 
 #pf_icons img {
-  width: 56px;
-  height: 56px;
+    width: 56px;
+    height: 56px;
+}
+
+#pf_icons img:hover {
+    transform: scale(1.5);
 }
 
 button {
@@ -118,14 +122,17 @@ button {
     padding: 8px 16px;
     text-align: center;
     text-decoration: none;
+    transition-duration: 0.2s;
+    transition-property: box-shadow;
+    transition-timing-function: cubic-bezier(.17,.89,.5,1.32);
 }
 
 button:hover {
-    box-shadow: inset 0px 0px 0px 1px black;
+    box-shadow: inset 0px 0px 0px 2px black;
 }
 
 button:active{
-    box-shadow: inset 0px 0px 0px 2px black;
+    box-shadow: inset 0px 0px 0px 3px black;
     background-color: #DFDFDF;
 }
 
@@ -195,4 +202,22 @@ select{
     background-color: rgba(255,255,255,0.6);
     padding: 0.5em;
     border: 1px solid #DFDFDF;
+}
+
+/* TABLE STYLING */
+table tr:nth-of-type(2n) td{
+    padding-bottom: 0.5em;
+    font-style: italic;
+    font-weight: 300;
+}
+
+table td.date{
+    font-weight: 300;
+    width: 35%;
+    text-align: right;
+    padding-right: 1em;
+}
+
+table{
+    width: 100%;
 }
