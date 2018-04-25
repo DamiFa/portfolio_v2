@@ -62,8 +62,8 @@ li{
 
 
 #pf_icons img {
-    width: 56px;
-    height: 56px;
+    width: 4rem;
+    height: 4rem;
 }
 
 #pf_icons img:hover {
@@ -179,4 +179,11 @@ td.formation, td.school{
 
 table{
     width: 100%;
+}
+
+@media screen and (max-width: 576px)
+{
+    html{
+        font-size: 75%;
+    }
 }
