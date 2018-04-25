@@ -1,99 +1,23 @@
 body{
     font-family: 'Roboto';
-}
-
-.mb-article{
-    margin-bottom: 3em;
+    text-align: center;
 }
 
 h1{
-    -webkit-margin-before: 24px;
-    -webkit-margin-after: 14px;
-    text-align: center;
+    font-size: 2.5rem;
 }
 
 h2{
-    -webkit-margin-before: 22px;
-    -webkit-margin-after: 16px;
-    text-align: center;
+    font-size: 2rem;
 }
 
 h3 {
     font-weight: normal;
-    -webkit-margin-before: 12px;
-    -webkit-margin-after: 10px;
-    text-align: center;
 }
 
 h4 {
-  font-weight: normal;
-  -webkit-margin-before: 12px;
-  -webkit-margin-after: 10px;
-  text-align: center;
-  text-decoration: underline;
-}
-
-p{
-    -webkit-margin-after: 1em;
-    text-align: center;
-}
-
-li{
-    text-align: center;
-    list-style-type: none;
-}
-
-ul{
-    padding-left: 0;
-}
-
-/* h1, h2, h3, p {
-    transition: all 0.5s ease-out;
-} */
-
-#header a h1{
-    font-weight: bold;
-    font-size: 42px;
-    color: black;
-    -webkit-margin-before: 16px;
-    -webkit-margin-after: 12px;
-}
-
-#header a h2 {
-    font-weight: bold;
-    font-size: 24px;
-    color: black;
-    -webkit-margin-before: 12px;
-    -webkit-margin-after: 20px;
-}
-
-#header a:link, #pf_icons a:link, #header a:visited, #pf_icons a:visited, #header a:hover, #pf_icons a:hover, #header a:active, #pf_icons a:active {
-  text-decoration: none;
-}
-
-.center {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-
-#pf_icons {
-    padding-bottom: 12px;
-    -webkit-margin-after: 20px;
-    /*border-bottom: 1px solid black;*/
-}
-
-.divider {
-    border-bottom: 1px solid black;
-}
-
-header > div{
-    -webkit-margin-before: 12px;
-    -webkit-margin-after: 12px;
-}
-
-p {
-  margin-top: 0%;
+    font-weight: normal;
+    text-decoration: underline;
 }
 
 a{
@@ -101,11 +25,41 @@ a{
   word-wrap: break-word;
 }
 
+ul{
+    padding-left: 0;
+}
+
+li{
+    list-style-type: none;
+}
+
+#header a h1{
+    font-weight: bold;
+    font-size: 2.6rem;
+    color: black;
+}
+
+#header a h2 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: black;
+}
+
+#header a:link, #pf_icons a:link, #header a:visited, #pf_icons a:visited, #header a:hover, #pf_icons a:hover, #header a:active, #pf_icons a:active {
+  text-decoration: none;
+}
+
+.divider {
+    border-bottom: 1px solid black;
+}
+
 .article img{
   border: 1px solid black;
   height: auto;
   width: 100%;
 }
+
+
 
 #pf_icons img {
     width: 56px;
@@ -116,6 +70,7 @@ a{
     transform: scale(1.5);
 }
 
+/* BUTTON STYLING */
 button {
     background-color: #FFFFFF;
     border: solid 3px black;
@@ -216,6 +171,10 @@ table td.date{
     width: 35%;
     text-align: right;
     padding-right: 1em;
+}
+
+td.formation, td.school{
+    text-align: left;
 }
 
 table{
