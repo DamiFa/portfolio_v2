@@ -46,7 +46,16 @@ li{
 }
 
 #header a:link, #pf_icons a:link, #header a:visited, #pf_icons a:visited, #header a:hover, #pf_icons a:hover, #header a:active, #pf_icons a:active {
-  text-decoration: none;
+    text-decoration: none;
+}
+
+#pf_icons img {
+    width: 4rem;
+    height: 4rem;
+}
+
+#pf_icons img:hover {
+    transform: scale(1.5);
 }
 
 .divider {
@@ -59,22 +68,15 @@ li{
   width: 100%;
 }
 
-
-
-#pf_icons img {
-    width: 4rem;
-    height: 4rem;
-}
-
-#pf_icons img:hover {
-    transform: scale(1.5);
+.row .img{
+    align-self: center;
 }
 
 /* BUTTON STYLING */
 button {
     background-color: #FFFFFF;
     border: solid 3px black;
-    padding: 8px 16px;
+    padding: 0.4rem 0.8rem;
     text-align: center;
     text-decoration: none;
     transition-duration: 0.2s;
@@ -95,7 +97,8 @@ button:focus{
     outline: none;
 }
 
-/* SLIDER */
+/* INPUTS */
+
 /* The switch - the box around the slider */
 .switch {
     position: relative;
@@ -160,6 +163,10 @@ select{
 }
 
 /* TABLE STYLING */
+table{
+    width: 100%;
+}
+
 table tr:nth-of-type(2n) td{
     padding-bottom: 0.5em;
     font-style: italic;
@@ -177,8 +184,13 @@ td.formation, td.school{
     text-align: left;
 }
 
-table{
-    width: 100%;
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 992px)
+{
+    .divider{
+        display: none;
+    }
 }
 
 @media screen and (max-width: 576px)
