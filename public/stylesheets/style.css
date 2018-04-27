@@ -37,7 +37,7 @@ li{
     list-style-type: none;
 }
 
-#pf_icons, #header{
+.icons, #header{
     margin: 1.8rem auto;
 }
 
@@ -54,17 +54,39 @@ li{
     color: black;
 }
 
-#header a:link, #pf_icons a:link, #header a:visited, #pf_icons a:visited, #header a:hover, #pf_icons a:hover, #header a:active, #pf_icons a:active {
+#header a:link, .icons a:link, #header a:visited, .icons a:visited, #header a:hover, .icons a:hover, #header a:active, .icons a:active {
     text-decoration: none;
 }
 
-#pf_icons img {
+.icons img {
     width: 4rem;
     height: 4rem;
+    margin: auto 1rem;
+    transition: all 0.1s linear;
 }
 
-#pf_icons img:hover {
-    transform: scale(1.5);
+.icons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.icon-selected img{
+    transform: scale(1.1);
+}
+
+.icon-unselected img{
+    opacity: 0.6;
+    transform: scale(0.9);
+}
+
+.icon.icon-unselected img:hover {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.icon img:hover{
+    transform: scale(1.1);
 }
 
 .divider {
@@ -88,6 +110,11 @@ li{
 
 .row .img{
     align-self: center;
+}
+
+.signature{
+    font-size: 0.8rem;
+    text-align: right;
 }
 
 /* BUTTON STYLING */
@@ -220,7 +247,19 @@ td.formation, td.school{
     html{
         font-size: 70%;
     }
+
     p, td, li{
         font-size: 1.2rem;
+    }
+
+    .icons{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .icons img {
+        width: 3.8rem;
+        height: 3.8rem;
+        margin: auto;
     }
 }
