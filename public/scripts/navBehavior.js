@@ -12,16 +12,17 @@ function getLastUrlPart (){
     let partsConnector = "/";
 
     let partedUrlPath = urlPath.split(partsConnector);
-    let lastUrlPart = partedUrlPath[partedUrlPath.length-1];
+    let lastPartIndex = partedUrlPath.length-1;
+    let lastUrlPart = partedUrlPath[lastPartIndex];
 
     return lastUrlPart;
 }
 
 function fillProjectIcons (){
-    let rawIcons = document.querySelectorAll(".icon");
+    let iconElements = document.querySelectorAll(".icon");
 
-    rawIcons.forEach(element => {
-        projectIcons[element.id] = element;
+    iconElements.forEach(iconElement => {
+        projectIcons[iconElement.id] = iconElement;
     });
 }
 
@@ -31,9 +32,14 @@ function setSelectedProject (){
     }
 }
 
+/**
+ * Loop dans les icones et compare si le projet de l'iteration est le currentProjectSlected.
+ * Si c'est le cas, il lui donne la classe icon-selected.
+ * Sinon il lui donne la classe icon-unselected.
+ */
 function assignClassToProject (){
-    for(var project in projectIcons){
-        if(project === currentProjectSelected) projectIcons[project].classList.add("icon-selected");
-        else projectIcons[project].classList.add("icon-unselected");
+    for(var icon in projectIcons){
+        if(icon === currentProjectSelected) projectIcons[icon].classList.add("icon-selected");
+        else projectIcons[icon].classList.add("icon-unselected");
     }
 }

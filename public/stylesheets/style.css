@@ -33,10 +33,20 @@ ul{
     margin-right: 1rem;
 }
 
-li{
+p, td, li{
+    font-weight: 300;
+    font-size: 1rem;
     list-style-type: none;
+    line-height: 1.9;
 }
 
+strong, h6{
+    font-weight: 400;
+}
+
+h6 {
+    line-height: 1.9;
+}
 .icons, #header{
     margin: 1.8rem auto;
 }
@@ -77,12 +87,14 @@ li{
 
 .icon-unselected img{
     opacity: 0.6;
-    transform: scale(0.9);
+    transform: scale(0.8);
+    filter: grayscale(100);
 }
 
 .icon.icon-unselected img:hover {
     opacity: 1;
     transform: scale(1);
+    filter: none;
 }
 
 .icon img:hover{
@@ -229,6 +241,10 @@ table td.date{
     padding-right: 1em;
 }
 
+td.formation{
+    font-weight: 400;
+}
+
 td.formation, td.school{
     text-align: left;
 }
@@ -248,7 +264,7 @@ td.formation, td.school{
         font-size: 70%;
     }
 
-    p, td, li{
+    p, td, li, h6{
         font-size: 1.2rem;
     }
 

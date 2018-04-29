@@ -3,8 +3,9 @@
         "EN":{
             "LONG":[
                 "ABOUT ME",
-                "Je viens d’une formation de game designer, cette discipline puise dans de nombreuses autres tel que l’ergonomie, les sciences cognitives, l’architecture et sciences humaine (sociologie, antropologie, …). A travers le prisme du game design j’ai étendu mes connaissances et me suis interessé à d’autres domaines, notamment le web design et la programmation. Cette dernière m’attirant de par son coté rationel, je retrouve dans la programmation ce qui me plait dans le design, chercher l’efficacité à travers la simplicité (less is more) sans le coté abstrait inérant au design.  Le programmation est plus pragramtique que le design tout en gardant l’aspect créatif.",
-                "Je suis actuellement en cour de réorientation profressionnel vers le génie logiciel à l’HEIG-VD et recherche un emploi à temps partiel dans ce domaine. J’ai choisi l’HEIG-VD car elle propose une formation en emploi permettant d’acquerir de l’experience et d’appliquer directement ses connaissances en milieu professionnnel."
+                "I come from a game designer training, this discipline draws on many others such as ergonomics, cognitive science, architecture and social sciences (sociology, anthropology, …). Through the prism of game design I extended my knowledge and became interested in other areas, including web design and programming. The latter attracts me by its rational side. I find in programming what I like in design, looking for efficiency through simplicity without the abstract aspect inherent in design. Programming is more hands on than design while keeping the creative aspect.",
+                "I am currently in the process of  a professional reorientation towards software engineering at HEIG-VD and looking for a part-time job in this field. I chose the HEIG-VD because it offers a work-study formation that allows to gain experience and apply theorical knowledge in a professional environment.",
+                "You will find in this portfolio a description of my main projects, through which I learned the most. Each project is presented in the form of a brief post post mortem. For more information you can contact me at damien.fangous[at]gmail.com."
             ],
             "TLDR":[
                 "ABOUT ME",
@@ -318,7 +319,7 @@
                 "Tiny Rider",
                 "In this game you control indirectly a ball by modifying the ground's shape, it is a mix between Tiny Wings and Line Rider. I was mostly limited by my technical skills and Unity’s physics.",
                 "Game Jams",
-                "I participated in several game jams in diffent contries, France, Switzerland, Germany and Canada. I enjoy game james for several reasons:",
+                "I participated in several game jams in different countries: France, Switzerland, Germany and Canada. I enjoy game jams for several reasons:",
                 "Meet New People",
                 "It is always an enriching experience to work with new people, especially when you get to know them by working for 48 hours next to them. We have to quickly understand how to work, everyone’s weakness and how to help each other to reach our goals.",
                 "The Strong Constaints",
@@ -326,7 +327,7 @@
                 "Another interesting constraints to take in account is the skills of each members of the team, what they are used to work with. For example is the programmer more comfortable with Unity, game maker or a library HTML5/JS ? The artists art style, pixel art, 3D or flash ? Being aware of those help to orients the decisions and gives us a base to start with",
                 "Projects Scope",
                 "As a designer I like being aware of every aspects of a project. Because of the time constraint, we have to keep the scope of the project small which makes the design very manageable. It also allows me to help members of the team when the design side is done.",
-                "Here are a few game jams projects I worked on:",
+                "Here are a few game jam projects I worked on:",
                 "Replay (2012) at Lilles, FR as a level designer",
                 "Benighted (2013) at Cologne, DE as a level designer",
                 "Temple of Hue (2014) at Montreal, CA as a GD and LD",

@@ -1,9 +1,9 @@
 var tagsToFill = document.querySelectorAll(".to-fill");
 var lengthInput = document.querySelector("input[name='length-text']");
-var isLong = lengthInput.checked;
-var length;
 var languageInput = document.querySelector("#language-value");
-var languageValue = languageInput.value;
+var isLong = lengthInput.checked;
+var language = languageInput.value;
+var length;
 
 document.addEventListener('DOMContentLoaded',function() {
     length = !isLong ? "LONG" : "TLDR";
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded',function() {
 
 function fillTags(){
     tagsToFill.forEach((tag, i) => {
-        tag.innerHTML = texts[languageValue][length][i];
+        tag.innerHTML = texts[language][length][i];
     });
 }
 
@@ -25,6 +25,6 @@ function changeLength(){
 }
 
 function changeLanguage(){
-    languageValue = languageInput.value;
+    language = languageInput.value;
     fillTags()
 }
